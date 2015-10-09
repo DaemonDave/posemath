@@ -1,0 +1,4 @@
+<map id="PmPose" name="PmPose">
+<area shape="rect" id="node2" href="$structPmCartesian.html" title="PmCartesian" alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$structPmQuaternion.html" title="PmQuaternion" alt="" coords="129,5,234,32"/>
+</map>

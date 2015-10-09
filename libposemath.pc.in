@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: posemath
+Description: NIST's  C / C++ posemath library for Robotics Transformations, Poses, and Computation
+Version: @VERSION@
+Libs: -L${libdir}  -lposemath @LIBS@
+Cflags: -I${includedir}
